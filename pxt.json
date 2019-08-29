@@ -14,8 +14,7 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "TransmitterIR.cpp",
-        "TransmitterIR.h",
-        "_locales/zh/maqueen-strings.json"
+        "TransmitterIR.h"
     ],
     "testFiles": [
         "tests.ts"
